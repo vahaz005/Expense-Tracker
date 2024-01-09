@@ -1,0 +1,7 @@
+.mybutton{
+    border: none;
+    background-color:aliceblue;
+    justify-content: center;
+    display: flex;
+    padding-left: 17px;
+}
